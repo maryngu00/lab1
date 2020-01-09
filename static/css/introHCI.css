@@ -9,9 +9,6 @@
 	color: #CC00AA;
 }
 
-.project {
-     margin-left: 20px;
-}
 
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
@@ -23,6 +20,10 @@ body {
 .jumbotron {
 	position: relative;
 	background: none;
+}
+
+.project {
+     margin-left: 20px;
 }
 
 .jumbotron:after {
